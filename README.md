@@ -1,13 +1,5 @@
 <p align="center">
-  <a>UNDERCOVER.HOST CS:GO CHEAT</a>
+ <a>undercover.host CS:GO Cheat / 2021 version</a><br>
+ <a>After the cheat discontinued, it's sources got leaked</a><br>
+ <a>This repository has been uploaded here for the old times' sake.</a>
 </p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/647545143368613888/779698105590874112/logo.png">
-</p>
-
-
-
-
-# undercover csgo fork
-anti-priv
